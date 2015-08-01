@@ -524,6 +524,17 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/img\/get-shacked.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9653,
+		"inputAbbreviatedPath": "\/img\/get-shacked.png",
+		"outputAbbreviatedPath": "\/img\/get-shacked.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/header.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -531,6 +542,37 @@
 		"initialSize": 125976,
 		"inputAbbreviatedPath": "\/img\/header.jpg",
 		"outputAbbreviatedPath": "\/img\/header.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/pizza-wave.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/pizza-wave.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/img\/pizza-wave.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33480,
+		"inputAbbreviatedPath": "\/img\/pizza-wave.jpg",
+		"outputAbbreviatedPath": "\/img\/pizza-wave.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/pizza-wave.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.03738e+06,
+		"inputAbbreviatedPath": "\/img\/pizza-wave.png",
+		"outputAbbreviatedPath": "\/img\/pizza-wave.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
